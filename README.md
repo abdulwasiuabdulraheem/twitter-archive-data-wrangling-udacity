@@ -10,7 +10,7 @@ I followed these steps to complete the data wrangling process:
 - Step 4: Storing data <br>
 
 After this, I performed data analysis and visualization. <br>
-I also created a written report that briefly describes my wrangling efforts and another report that communicates all the insights and displays the visualization(s) produced from the wrangled data. 
+I also created a written report that briefly describes my wrangling efforts and another report that communicates all the insights and displays the visualizations produced from the wrangled data. 
 
 
 
